@@ -1,4 +1,4 @@
-# It's a Simple Authentication React Project 😊
+# Here's a Simple "Dashboard Authentication" React based Project 😊
 # ^_^👷‍♂️
 ## Youtube video link--
 https://www.youtube.com/watch?v=obWkBNG1WIw&list=PLPppPPmk0i3j_DW1T-UbryDVhBDgaAfEp&index=8
